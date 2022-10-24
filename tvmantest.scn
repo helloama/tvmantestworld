@@ -95,9 +95,9 @@
     },
     {
       "position": [
-        -26,
         0,
-        -2
+        0,
+        0
       ],
       "quaternion": [
         0,
@@ -105,7 +105,7 @@
         0,
         0.7071067811865475
       ],
-      "start_url": "https://webaverse.github.io/app/public/avatars/pumpkinroom-v1.glb",
+      "start_url": "https://helloama.github.io/tvmantestworld/pumpkinroomm.glb",
       "dynamic": true
     },
     {
